@@ -199,6 +199,7 @@ window.addEventListener('beforeprint', () => {
 
 window.addEventListener('afterprint', () => {
   document.body.style.fontSize = '';
+<<<<<<< HEAD
 });
 
 // ===== 스크롤 성능 보정용 (기존 코드 아래에 추가) =====
@@ -249,3 +250,6 @@ window.addEventListener('scroll', () => {
     requestAnimationFrame(__runScrollTasks);
   }
 }, { passive: true });
+=======
+});
+>>>>>>> 07937f39471a51509c197da193ca4f3bc26863d5

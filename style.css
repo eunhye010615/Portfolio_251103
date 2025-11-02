@@ -661,15 +661,21 @@ h6 {
   padding: var(--spacing-lg);
   border-radius: 16px;
   text-align: center;
+<<<<<<< HEAD
   width: 100%;
+=======
+>>>>>>> 07937f39471a51509c197da193ca4f3bc26863d5
 }
 
 .contact-info h3 {
   color: var(--color-white);
   margin-bottom: var(--spacing-md);
+<<<<<<< HEAD
   text-align: center;
   justify-content: center;
   align-items: center;
+=======
+>>>>>>> 07937f39471a51509c197da193ca4f3bc26863d5
 }
 
 .contact-grid {
